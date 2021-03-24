@@ -2,3 +2,4 @@ numpy
 qiskit
 ipykernel
 git+https://github.com/strangeworks/sdk-python.git
+fire
