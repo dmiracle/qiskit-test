@@ -1,6 +1,9 @@
 numpy
 qiskit
+qiskit-nature
 ipykernel
 # git+https://github.com/strangeworks/sdk-python.git
 fire
 python-decouple
+matplotlib
+pylatexenc
