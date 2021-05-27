@@ -1,5 +1,6 @@
 numpy
 qiskit
 ipykernel
-git+https://github.com/strangeworks/sdk-python.git
+# git+https://github.com/strangeworks/sdk-python.git
 fire
+python-decouple
